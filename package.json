@@ -1,0 +1,23 @@
+{
+  "name": "pointing-poker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wesleycole/pointing-poker-slack-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wesleycole/pointing-poker-slack-bot/issues"
+  },
+  "homepage": "https://github.com/wesleycole/pointing-poker-slack-bot#readme",
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
